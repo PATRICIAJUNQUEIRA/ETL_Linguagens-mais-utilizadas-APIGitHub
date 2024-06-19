@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+#Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+=======
+config.py
+<outro_arquivo_sensivel>
+>>>>>>> 1ed6e639c584395f2d9c8e7ddabc6d52c49797fd
